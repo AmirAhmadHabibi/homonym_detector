@@ -1,0 +1,5 @@
+wsm-homonym-resource_homonyms_v1.tsv has four columns separated by tab:
+    lemma   lexeme_number   POS_list    definition
+
+wsm-homonym-resource_mappings_v1.tsv has two columns separated by tab:
+    WordNet_sense   lexeme_number

@@ -1,0 +1,5 @@
+hk20-homonym-resource_homonyms_v02.tsv has four columns separated by tab:
+    lemma   lexeme_number   POS_list    definition
+
+hk20-homonym-resource_mappings_v02.tsv has two columns separated by tab:
+    WordNet_sense   lexeme_number
