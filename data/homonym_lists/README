@@ -1,0 +1,38 @@
+* alphalink_homonyms.txt
+    source: http://home.alphalink.com.au/~umbidas/homonym_main.htm
+    description: Based on difference in meanings
+    
+* crowd_truth_homographs.txt
+    source: https://docs.google.com/spreadsheets/d/1c8URIy_rHil2KyQp3tZDqd5lhN_rRgd6mn9Gc_XTy2g/edit?usp=sharing
+    publication: Homonym Detection For Humor Recognition In Short Text. van den Beukel and Aroyo 2018
+    description: Based on human judgment about the ambiguity of words
+
+* hk_type-a_homonyms.txt
+    source: CHAUVIN:/local/chauvin2/hk19_homonym_resource.tsv
+    publicaition: OHPT paper
+    description: Based on etymological differences
+
+* gorman_et_al_google_homographs.txt
+    source: https://github.com/google/WikipediaHomographData
+    publication: Improving homograph disambiguation with supervised machine learning. Gorman et al. 2018
+    description: Based on difference in pronunciation (phonetics)
+
+* opundo_winnipeg_homonyms.txt
+    source: http://www.opundo.com/homonyms.htm
+            originally from: http://ion.uwinnipeg.ca/~clark/cog/norms/hom.html
+    publication: Several publicatinos mentioned in http://ion.uwinnipeg.ca/~clark/cog/norms/norms.txt
+    description: Based on ambiguity in meaning of the words
+
+* rice_et.al_homonyms.txt
+    source: http://www.blairarmstrong.net/homonymnorms/
+    publication: A comparison of homonym meaning frequency estimates derived from movie and television subtitles, free association, and explicit ratings. Rice et al. 2018
+    description: Based on separate entries in Wordsmyth dictionary
+
+* wikipedia_homographs-5March2020.txt
+    source: https://en.wikipedia.org/wiki/List_of_English_homographs
+    description: Based on difference in meanings (same spelling)
+
+* wikipedia_homonyms-5March2020.txt
+    source: https://en.wikipedia.org/wiki/List_of_true_homonyms
+    description: Based on difference in meaning (same spelling and same pronunciation)
+
